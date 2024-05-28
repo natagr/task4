@@ -1,6 +1,6 @@
 ## description of the entity3
 
-### ClassSession:
+### Session (class session):
 
 ID (unique identifier)
 
